@@ -22,5 +22,8 @@
 [![n1ky's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kyfn)](https://github.com/n1kyfn/github-readme-stats)
 
 #
-![github-snake](https://github.com/user-attachments/assets/f1670541-b22a-48b0-b11b-b701b90a8370)
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/230ba415-476f-442e-9880-a40a12f94faa)
+
 #
+
