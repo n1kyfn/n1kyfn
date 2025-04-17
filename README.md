@@ -23,7 +23,8 @@
 
 #
 
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/230ba415-476f-442e-9880-a40a12f94faa)
+![github-snake](https://github.com/user-attachments/assets/28815ff6-9d15-41d0-ad9a-ff7f57d903e1)
+
 
 #
 
