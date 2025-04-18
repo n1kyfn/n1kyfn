@@ -2,7 +2,7 @@
 
 
 # 🌟 Who Am I?
-### My name is <strong>n1ky</strong>, I'm novice frontend developer. In the future, I will be able to create cool websites for you.😊
+### My name is <strong>n1ky</strong>, I'm novice frontend dev. In the future, I will be able to create cool websites for you.😊
 
 # 💻 My Tech Stack
 ![html](https://github.com/user-attachments/assets/535d7ed4-c90f-4edb-8993-67d5c1fdc878)
