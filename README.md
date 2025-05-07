@@ -10,6 +10,8 @@
 ![JS](https://github.com/user-attachments/assets/64a35f76-bd08-4690-94e7-e498a3c2479a)
 ![bootstrap](https://github.com/user-attachments/assets/12e12d57-6d5d-4fe0-9952-4bc5ac9bf835)
 ![figma](https://github.com/user-attachments/assets/c21ee441-41cf-48dc-b81d-0a0214dc14f2)
+![Sass](https://github.com/user-attachments/assets/cbb524ed-320a-4b61-a62c-384d714bdea8)
+
 
 
 #### 📩 My socials
