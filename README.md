@@ -1,11 +1,4 @@
-<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-
-
-# 🌟 Who Am I?
-### My name is <strong>n1ky</strong>, I'm novice frontend dev. In the future, I will be able to create cool websites for you.😊
-
-#
-
+dev
 #### 📩 My socials
 <ul>
   <li><i>Telegram: </i><a href="https://t.me/trenn1ky" alt="telegram">Click</a></li>
