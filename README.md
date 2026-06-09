@@ -1,5 +1,4 @@
 # 👨‍💻 Привет, я - n1ky!
-### Junior Frontend Developer • 1.5 года в коммерческой разработке
 
 ---
 
@@ -18,61 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 📦 **Библиотеки и инструменты**
-- **I18N** - глобальный перевод
-- **React Router** - маршрутизатор
-- **React-hook-form** - работа с формами
-- **zod** - схема форм
 
-### 🎭 **UI & Анимации:**
-- **Framer Motion** — комплексные анимации
-- **Material-UI / Ant Design** — UI-киты
-- **Styled Components** — CSS-in-JS
-- **Tailwind CSS** — утилитарные стили
-
-### 🚀 **Состояние и данные:**
-- **Redux Toolkit** — глобальное состояние
-- **Zustand** — легкий стейт-менеджер
-- **React Query** — работа с API
-- **Axios** — HTTP-запросы
-
-### 🛠 **Утилиты и тестирование:**
-- **Jest / React Testing Library** — юнит-тесты
-- **Cypress** — e2e тестирование
-- **ESLint / Prettier** — линтинг и форматирование
-- **Webpack** — сборка проектов
-- **Docker** — контейнеризация
-
----
-
-## 💼 Мой стек в виде кода
-
-```typescript
-
-const myStack = {
-  languages: ['JavaScript', 'TypeScript', 'Python'],
-  frontend: {
-    core: ['React', 'Next.js'],
-    styling: ['SCSS/SASS', 'Styled Components', 'Tailwind CSS'],
-    state: ['Redux Toolkit', 'Zustand', 'React Query'],
-    animation: ['Framer Motion', 'GSAP']
-  },
-  backend: ['Node.js', 'Express', 'NestJS'],
-  tools: ['Git', 'GitLab CI/CD', 'Docker', 'Webpack', 'Vite'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-  testing: ['Jest', 'React Testing Library', 'Cypress'],
-  principles: ['Clean Code', 'SOLID']
-};
-
-```
-
----
-
-### 🎬 Социальные сети
-📱 Telegram - [Click]("some") 
-
-🎥 YouTube - [Click]("some")
-
-💬 Discord - [Click]("some")
 
 
